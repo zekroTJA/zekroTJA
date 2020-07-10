@@ -1,11 +1,11 @@
-![](media/banner.png)
+![](https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/banner.png)
 
 Hey 👋! I'm Ringo Hoffman, also known as zekro, and I'm a passionate german full stack developer in the age of `{currentYear - 1998}`.
 
 I love playing with web technologies, creating web applications and building automatic pipelines to deploy them. I'm a huge lover of docker and linux. Mostly, I'm working with C# (.NET Core/Framework), Go and TypeScript, but I'm also verry experienced using stuff like Python, Java, Elixir, C++, Lua or Dart.
 
 Here you can see a usage statistic over all my public and private github repositories.  
-![](media/langstats.png)  
+![](https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/langstats.png)  
 > Stats from 2020-09-10.  
 > Collected with [this script](https://github.com/zekroTJA/gitlangstats).
 
