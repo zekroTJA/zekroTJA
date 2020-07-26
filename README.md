@@ -6,9 +6,11 @@ I love playing with web technologies, creating web applications and building aut
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekroTJA&theme=tokyonight&layout=compact" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true" height="170" />
-<div />
+</div>
 
-## My current main projects
+<div align="center">
+<h2>My current main projects</h2>
+</div>
 
 - [**shinpuru**](https://github.com/zekroTJA/shinpuru)  
   A multi-purpose Discord bot with backups, twitch notifications, moderation, code execution, a web interface and much more. Built with Go and Angular and using MySQL, Redis and MinIO.
