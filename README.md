@@ -24,7 +24,10 @@ I love playing with web technologies, creating web applications and building aut
 - [**voidseeker**](https://github.com/zekroTJA/voidseeker)  
   An image storage, indexing and searching utility. Built with ASP.NET Core (C#) and React on top of Elasticsearch and MinIO.
   
-  ---
+ ---
+ <div align="center">
   
  Visitors since 2020-07-08:  
- ![](https://ghvisitorcount.zekro.de/zekroTJA.svg)
+ <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg"/>
+ 
+ </div>
