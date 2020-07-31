@@ -10,8 +10,6 @@ I love playing with web technologies, creating web applications and building aut
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekroTJA&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true" height="170" />
 </div>
 
-<img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
-
 <div align="center">
 <h2>My current main projects</h2>
 </div>
@@ -28,7 +26,7 @@ I love playing with web technologies, creating web applications and building aut
 - [**voidseeker**](https://github.com/zekroTJA/voidseeker)  
   An image storage, indexing and searching utility. Built with ASP.NET Core (C#) and React on top of Elasticsearch and MinIO.
   
- ---
+<img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
   
  Visitors since 2020-07-08:  
  <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg"/>
