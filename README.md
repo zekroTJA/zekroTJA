@@ -16,7 +16,7 @@ I love playing with web technologies, creating web applications and building aut
 </div>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=graywhite )](https://github.com/zekroTJA/Shinpuru)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&themetokyonight&layout=compact )](https://github.com/zekroTJA/Shinpuru)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=graywhite )](https://github.com/zekroTJA/supercharge)
 
