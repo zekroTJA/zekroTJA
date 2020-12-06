@@ -15,17 +15,15 @@ I love playing with web technologies, creating web applications and building aut
 <h2>My current main projects</h2>
 </div>
 
-- [**shinpuru**](https://github.com/zekroTJA/shinpuru)  
-  A multi-purpose Discord bot with backups, twitch notifications, moderation, code execution, a web interface and much more. Built with Go and Angular and using MySQL, Redis and MinIO.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=graywhite )](https://github.com/zekroTJA/Shinpuru)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=graywhite )](https://github.com/zekroTJA/supercharge)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=graywhite )](https://github.com/zekroTJA/voidseeker)
 
 - [**myrunes**](https://github.com/myrunes)  
   A web application to store League of Legends rune pages. Built with Go, Vue and Flutter and using MongoDB.
-
-- [**supercharge**](https://github.com/zekroTJA/supercharge)  
-  A web analytics tool to record and analyze League of Legends champion mastery points. Built with ASP.NET Core (C#) and Angular on top of PostgreSQL.
-
-- [**voidseeker**](https://github.com/zekroTJA/voidseeker)  
-  An image storage, indexing and searching utility. Built with ASP.NET Core (C#) and React on top of Elasticsearch and MinIO.
   
 <img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
   
