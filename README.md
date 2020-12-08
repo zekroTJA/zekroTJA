@@ -29,6 +29,7 @@ I love playing with web technologies, creating web applications and building aut
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
 </a>
  </div> 
+ <br />
 <img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
   
  Visitors since 2020-07-08:  
