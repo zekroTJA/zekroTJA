@@ -15,18 +15,21 @@ I love playing with web technologies, creating web applications and building aut
 <h2>My current main projects</h2>
 </div>
 
-- [**shinpuru**](https://github.com/zekroTJA/shinpuru)  
-  A multi-purpose Discord bot with backups, twitch notifications, moderation, code execution, a web interface and much more. Built with Go and Angular and using MySQL, Redis and MinIO.
-
-- [**myrunes**](https://github.com/myrunes)  
-  A web application to store League of Legends rune pages. Built with Go, Vue and Flutter and using MongoDB.
-
-- [**supercharge**](https://github.com/zekroTJA/supercharge)  
-  A web analytics tool to record and analyze League of Legends champion mastery points. Built with ASP.NET Core (C#) and Angular on top of PostgreSQL.
-
-- [**voidseeker**](https://github.com/zekroTJA/voidseeker)  
-  An image storage, indexing and searching utility. Built with ASP.NET Core (C#) and React on top of Elasticsearch and MinIO.
-  
+<div align="center">
+<a href="https://github.com/zekroTJA/Shinpuru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=tokyonight" />
+</a>
+  <a href="https://github.com/zekroTJA/supercharge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
+</a>
+  <a href="https://github.com/zekroTJA/voidseeker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=tokyonight" />
+</a>
+  <a href="https://github.com/myrunes/backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
+</a>
+ </div> 
+ <br />
 <img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
   
  Visitors since 2020-07-08:  
