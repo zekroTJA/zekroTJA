@@ -15,16 +15,20 @@ I love playing with web technologies, creating web applications and building aut
 <h2>My current main projects</h2>
 </div>
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=graywhite)](https://github.com/zekroTJA/Shinpuru)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=graywhite )](https://github.com/zekroTJA/supercharge)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=graywhite )](https://github.com/zekroTJA/voidseeker)
-
-- [**myrunes**](https://github.com/myrunes)  
-  A web application to store League of Legends rune pages. Built with Go, Vue and Flutter and using MongoDB.
-  
+<div align="center">
+<a href="https://github.com/zekroTJA/Shinpuru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=tokyonight" />
+</a>
+  <a href="https://github.com/zekroTJA/supercharge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
+</a>
+  <a href="https://github.com/zekroTJA/voidseeker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=tokyonight" />
+</a>
+  <a href="https://github.com/myrunes/backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
+</a>
+ </div> 
 <img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
   
  Visitors since 2020-07-08:  
