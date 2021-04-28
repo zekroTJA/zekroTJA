@@ -56,5 +56,6 @@ def main():
     with open(TARGET, 'w') as f:
         f.write(target_contents)
 
+
 if __name__ == '__main__':
     main()
