@@ -1,0 +1,38 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 12 12 *'
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '**.md'
+
+jobs:
+
+  update:
+
+    name: Update Age
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Update age in readme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/replace.py
+
+      - name: Commit & Push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: update age
+          branch: master
