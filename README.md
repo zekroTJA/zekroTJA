@@ -1,6 +1,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02-cropped.gif"/>
 
-Hey 👋! I'm Ringo Hoffman, also known as zekro. I am <!--age:1998-12-12-->22 years old full stack developer from Germany.
+Hey 👋! I'm Ringo Hoffman, also known as zekro. I am a <!--age:1998-12-12-->22 years old full stack developer from Germany.
 
 I love playing with web technologies, creating web applications and building automatic pipelines to deploy them. I'm a huge lover of docker and linux. Mostly, I'm working with C# (.NET Core/Framework), Go and TypeScript, but I'm also very experienced using stuff like Python, Java, Elixir, C++, Lua or Dart.
 
