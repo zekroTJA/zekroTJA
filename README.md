@@ -1,8 +1,20 @@
 <img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02-cropped.gif"/>
 
+---
+
 Hey 👋! I'm Ringo Hoffman, also known as zekro. I am a <!--age:1998-12-12-->22 years old full stack developer from Germany.
 
-I love playing with web technologies, creating web applications and building automatic pipelines to deploy them. I'm a huge lover of docker and linux. Mostly, I'm working with C# (.NET Core/Framework), Go and TypeScript, but I'm also very experienced using stuff like Python, Java, Elixir, C++, Lua or Dart.
+I am mostly experienced with Go, C# and Python, especially in creating back end and server applications. Also, I work a lot with web utilities and frameworks like Angular, React and Vue *(and all the stuff that comes with it like TypeScript, SCSS/SASS, Node/NPM, ...)*.
+
+Like every dev, I love deploying stuff on linux servers—preferably using Docker in combination with docker-compose—and creating full-stack service networks using stuff like traefik, NGINX, MinIO, Redis, MariaDB, PostgreSQL, Elasticsearch, MongoDB, MeiliSearch or Neo4J.
+
+Because I am lazy, I automate **everything**. Even [this readme is automated](https://blog.zekro.de/ghreadme-actions/)! To do so, I mostly use CI/CD tools like GitHub Actions, TravisCI or Jenkins.
+
+As well, as It might be obvious at this point, I am a huge fan of open source. I have created quite a bunch of projects—from large Discord bots like [shinpuru](https://github.com/zekroTJA/shinpuru) to full-stack web apps like [myrunes.com](https://github.com/myrunes) or [ranna](https://github.com/ranna-go) over libraries like [timedmap](https://github.com/zekroTJA/timedmap) or [pytter](https://github.com/zekroTJA/pytter) to Minecraft Forge mods like [MagicStaffs](https://github.com/zekroTJA/MagicStaffs) or [ForgeDiscordRPC](https://github.com/zekroTJA/ForgeDiscordRPC)—which are all available free and open on GitHub.
+
+Besides all of that, I also create videos on my [YouTube channel](https://youtube.com/zekrommaster110) about various development and tech topics. Also, I have a [blog](https://blog.zekro.de/) where I post informational and opinionated posts about these topics as well.
+
+---
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekroTJA&theme=tokyonight&layout=compact&hide=css" height="170" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zekroTJA&theme=tokyonight&show_icons=true" height="170" />
@@ -16,8 +28,8 @@ I love playing with web technologies, creating web applications and building aut
 </div>
 
 <div align="center">
-<a href="https://github.com/zekroTJA/Shinpuru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=Shinpuru&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/zekroTJA/shinpuru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
 </a>
   <a href="https://github.com/zekroTJA/supercharge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
