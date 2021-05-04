@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02-cropped.gif"/>
+<img width="100%" src="media/02-cropped.gif"/>
 
 ---
 
@@ -21,7 +21,7 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 </div>
 
 <br />
-<img width="100%" src="https://raw.githubusercontent.com/zekroTJA/zekroTJA/master/media/02d-cropped.gif"/>
+<img width="100%" src="media/02d-cropped.gif"/>
 
 <div align="center">
 <h2>My current main projects</h2>
@@ -34,15 +34,15 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
   <a href="https://github.com/zekroTJA/supercharge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
 </a>
-  <a href="https://github.com/zekroTJA/voidseeker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=voidseeker&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/ranna-go/ranna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranna-go&repo=ranna&show_icons=true&theme=tokyonight" />
 </a>
   <a href="https://github.com/myrunes/backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
 </a>
  </div> 
  <br />
-<img width="100%" src="https://github.com/zekroTJA/zekroTJA/blob/master/media/senjou-cropped.gif"/>
+<img width="100%" src="media/senjou-cropped.gif"/>
   
  Visitors since 2020-07-08:  
  <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg"/>
