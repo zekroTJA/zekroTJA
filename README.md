@@ -14,6 +14,21 @@ As well, as It might be obvious at this point, I am a huge fan of open source. I
 
 Besides all of that, I also create videos on my [YouTube channel](https://youtube.com/zekrommaster110) about various development and tech topics. Also, I have a [blog](https://blog.zekro.de/) where I post informational and opinionated posts about these topics as well.
 
+<br />
+<div align="center">
+<h5>A collection of apps I've created or worked on.</h5>
+<a href="https://github.com/myrunes"><img src="media/apps/myrunes.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/zekroTJA/supercharge"><img src="media/apps/supercharge.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/zekroTJA/voidseeker"><img src="media/apps/voidseeker.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/zekroTJA/tokentoolsr"><img src="media/apps/tokentools.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/shiori-ex"><img src="media/apps/shiori.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ranna-go"><img src="media/apps/ranna.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/vctr-sls"><img src="media/apps/vctr.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/zekroTJA/shinpuru"><img src="media/apps/shinpuru.png" width="50" /></a>&nbsp;&nbsp;
+<a href="https://github.com/evolvedpacks"><img src="media/apps/evpacks.png" width="50" /></a>
+</div>
+<br />
+
 ---
 
 <div align="center">
