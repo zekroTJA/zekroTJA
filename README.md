@@ -43,18 +43,7 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 </div>
 
 <div align="center">
-<a href="https://github.com/zekroTJA/shinpuru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
-</a>
-  <a href="https://github.com/zekroTJA/supercharge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
-</a>
-  <a href="https://github.com/ranna-go/ranna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranna-go&repo=ranna&show_icons=true&theme=tokyonight" />
-</a>
-  <a href="https://github.com/myrunes/backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
-</a>
+  <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=tokyonight&show_icons=true&layout=compact" /></a>
  </div> 
  <br />
 <img width="100%" src="media/senjou-cropped.gif"/>
