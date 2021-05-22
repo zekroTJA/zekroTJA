@@ -9,7 +9,7 @@ jobs:
 
   update:
 
-    name: Update Age
+    name: Update Current Projects
     runs-on: ubuntu-latest
 
     steps:
@@ -20,6 +20,9 @@ jobs:
 
       - name: Check out code
         uses: actions/checkout@v2
+
+      - name: Install Dependencies
+        run: python3 -m pip install --pre -r scripts/requirements.txt
 
       - name: Update current projects in Readme
         env:
