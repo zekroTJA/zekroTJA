@@ -44,19 +44,15 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/shinpuru">
+<a href="https://github.com/zekroTJA/zekroTJA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=zekroTJA&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/lookupex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=lookupex&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
-</a>
-  <a href="https://github.com/zekroTJA/supercharge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
-</a>
-  <a href="https://github.com/ranna-go/ranna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranna-go&repo=ranna&show_icons=true&theme=tokyonight" />
-</a>
-  <a href="https://github.com/myrunes/backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myrunes&repo=backend&show_icons=true&theme=tokyonight" />
-</a>
-<!--CURRENT_PROJECTS_END-->
+</a><a href="https://github.com/zekroTJA/tc-worldsize-chart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=tc-worldsize-chart&show_icons=true&theme=tokyonight" />
+</a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
 <img width="100%" src="media/senjou-cropped.gif"/>
