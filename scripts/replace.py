@@ -30,7 +30,8 @@ class Replacer:
             bd = datetime.datetime.strptime(self.arg, '%Y-%m-%d')
             now = datetime.date.today()
             age = now.year - bd.year
-            if now.month < bd.month or (now.month == bd.month and now.day < bd.day):
+            if now.month < bd.month or \
+                    (now.month == bd.month and now.day < bd.day):
                 age -= 1
             return '{}'.format(age)
 
@@ -41,7 +42,8 @@ class Replacer:
 
 
 def find_all_replacers(target: str) -> List[Replacer]:
-    matches = re.findall('(<!--\\s?([\\w/-]+)(?::([\\w/-]+))?-->([\\w/-]+))\\s', target)
+    matches = re.findall(
+        '(<!--\\s?([\\w/-]+)(?::([\\w/-]+))?-->([\\w/-]+))\\s', target)
     return [Replacer(m) for m in matches]
 
 

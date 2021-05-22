@@ -1,8 +1,9 @@
-name: Update Age
+name: Update Current Projects
 
 on:
   schedule:
-    - cron: '0 0 12 12 *'
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
 
@@ -20,12 +21,14 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Update age in readme
-        run: python3 scripts/replace.py
+      - name: Update current projects in Readme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/latest-projects.py
 
       - name: Commit & Push
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: update age
+          message: update latest projects
           branch: master
