@@ -36,6 +36,15 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 </div>
 
 <br />
+<details>
+  <summary>Click here to see my Wakatime stats 😉</summary>
+  <br />
+  <a href="https://wakatime.com/@zekro"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=zekro&theme=tokyonight&layout=compact" /></a>
+</details>
+
+---
+
+<br />
 <img width="100%" src="media/02d-cropped.gif"/>
 
 <div align="center">
