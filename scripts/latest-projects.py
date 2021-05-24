@@ -70,8 +70,9 @@ def fetch_repositories(username, n):
     res = client.execute(QUERY, variable_values=params)
     res = [e.get('node')
            for e in res.get('user').get('repositories').get('edges')]
+    res = [r for r in res if r.get("name") != username]
 
-    return res
+    return res[:n]
 
 
 if __name__ == '__main__':
