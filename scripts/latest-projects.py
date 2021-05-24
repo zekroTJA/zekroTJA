@@ -65,7 +65,7 @@ def fetch_repositories(username, n):
         headers={"Authorization": f"bearer {api_key}"})
     client = Client(transport=transport)
 
-    params = {"username": username, "n": n}
+    params = {"username": username, "n": n + 1}
 
     res = client.execute(QUERY, variable_values=params)
     res = [e.get('node')
