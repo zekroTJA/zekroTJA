@@ -53,14 +53,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/ranna-go/ranna">
+<a href="https://github.com/zekroTJA/timedmap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=timedmap&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/ranna-go/ranna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranna-go&repo=ranna&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/zekro.de">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=zekro.de&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/slms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=slms&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/guildinfo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=guildinfo&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
