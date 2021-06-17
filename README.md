@@ -53,14 +53,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/MagicStaffs">
+<a href="https://github.com/zekroTJA/godeepl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=godeepl&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/MagicStaffs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=MagicStaffs&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/poopmail/sewage-plant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=poopmail&repo=sewage-plant&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/timedmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=timedmap&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
