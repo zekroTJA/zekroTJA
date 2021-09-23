@@ -53,14 +53,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/byte-formatter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=byte-formatter&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/zekroTJA/issue-comment-workflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=issue-comment-workflow&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/photolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=photolio&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/byte-formatter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=byte-formatter&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/itsfriday">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=itsfriday&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/react-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=react-template&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
