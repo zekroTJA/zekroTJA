@@ -2,7 +2,7 @@
 
 ---
 
-Hey 👋! I'm Ringo Hoffman, also known as zekro. I am a <!--age:1998-12-12-->23 years old full stack developer from Germany.
+Hey 👋! I'm Ringo Hoffmann, also known as zekro. I am a <!--age:1998-12-12-->23 years old full stack developer from Germany.
 
 I am mostly experienced with Go, C# and Python, especially in creating back end and server applications. Also, I work a lot with web utilities and frameworks like Angular, React and Vue *(and all the stuff that comes with it like TypeScript, SCSS/SASS, Node/NPM, ...)*.
 
