@@ -48,7 +48,7 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 <img width="100%" src="media/02d-cropped.gif"/>
 
 <div align="center">
-<h2>My current main projects</h2>
+<h2>Projects recently commited to</h2>
 </div>
 
 <div align="center">
