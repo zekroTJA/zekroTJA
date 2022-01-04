@@ -67,4 +67,5 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 <img width="100%" src="media/senjou-cropped.gif"/>
   
  Visitors since 2020-07-08:  
- <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg"/>
+ <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg" />  
+ <small><a href="https://github.com/zekroTJA/visitor-count">👉 <i>visitor counter</i></a></small>
