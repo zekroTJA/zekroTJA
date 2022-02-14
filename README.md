@@ -53,14 +53,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/shinpuru">
+<a href="https://github.com/zekroTJA/supercharge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/aspmusiclist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=aspmusiclist&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/yuri2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=yuri2&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/byte-formatter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=byte-formatter&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/tc-worldsize-chart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=tc-worldsize-chart&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/zekro.de">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=zekro.de&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
