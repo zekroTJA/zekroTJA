@@ -55,12 +55,12 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 <!--CURRENT_PROJECTS_BEGIN-->
 <a href="https://github.com/zekroTJA/guildinfo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=guildinfo&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/gitignore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=gitignore&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/supercharge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/tc-worldsize-chart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=tc-worldsize-chart&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/resource-vault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=resource-vault&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
