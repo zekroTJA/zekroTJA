@@ -53,14 +53,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/yuri69">
+<a href="https://github.com/vctr-sls/vctr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vctr-sls&repo=vctr&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/zekro.de">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=zekro.de&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/yuri69">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=yuri69&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/spigot-autobuild">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=spigot-autobuild&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/itsfriday">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=itsfriday&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/studio-b12/gowebdav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studio-b12&repo=gowebdav&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/meautosd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=meautosd&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
