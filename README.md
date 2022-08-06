@@ -59,8 +59,8 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/zekro.de">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=zekro.de&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/dgrs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=dgrs&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/DriveBackupV2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=DriveBackupV2&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
