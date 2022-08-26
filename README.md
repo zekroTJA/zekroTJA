@@ -53,10 +53,10 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/homer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=homer&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/shinpuru">
+<a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/homer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=homer&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/ratelimit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=ratelimit&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/schnittstelle">
