@@ -53,10 +53,10 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/chapterize">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=chapterize&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/coder-templates">
+<a href="https://github.com/zekroTJA/coder-templates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=coder-templates&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/chapterize">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=chapterize&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/photolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=photolio&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/shinpuru">
