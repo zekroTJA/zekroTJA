@@ -53,14 +53,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/aspmusiclist">
+<a href="https://github.com/zekroTJA/shinpuru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/supercharge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/aspmusiclist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=aspmusiclist&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/photolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=photolio&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/servus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=servus&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/spigot-autobuild">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=spigot-autobuild&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
