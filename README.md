@@ -55,12 +55,12 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 <!--CURRENT_PROJECTS_BEGIN-->
 <a href="https://github.com/zekroTJA/plotty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=plotty&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/rconclient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=rconclient&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/supercharge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=supercharge&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/aspmusiclist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=aspmusiclist&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/shinpuru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekro-archive/aspmusiclist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekro-archive&repo=aspmusiclist&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
