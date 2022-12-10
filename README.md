@@ -53,12 +53,12 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/plotty">
+<a href="https://github.com/zekroTJA/aoc2022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=aoc2022&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/plotty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=plotty&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/vctr-sls/vctr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vctr-sls&repo=vctr&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/aoc2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=aoc2022&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/ghostwriter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=ghostwriter&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
