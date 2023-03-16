@@ -95,12 +95,12 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 <!--CURRENT_PROJECTS_BEGIN-->
 <a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/rogu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=rogu&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/di">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=di&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/error2507/MemberCounter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=error2507&repo=MemberCounter&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/rclone-backup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=rclone-backup&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
