@@ -57,6 +57,7 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <h4>A collection of apps I've created or worked on.</h4>
+<a href="https://github.com/zekroTJA/shinpuru"><img src="media/apps/shinpuru.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/myrunes"><img src="media/apps/myrunes.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/zekroTJA/supercharge"><img src="media/apps/supercharge.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/zekroTJA/voidseeker"><img src="media/apps/voidseeker.png" width="50" /></a>&nbsp;&nbsp;
@@ -64,7 +65,6 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 <a href="https://github.com/shiori-ex"><img src="media/apps/shiori.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/ranna-go"><img src="media/apps/ranna.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/vctr-sls"><img src="media/apps/vctr.png" width="50" /></a>&nbsp;&nbsp;
-<a href="https://github.com/zekroTJA/shinpuru"><img src="media/apps/shinpuru.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/evolvedpacks"><img src="media/apps/evpacks.png" width="50" /></a>
 <h6>Most of the logos are designed by <a href="https://twitter.com/luxtracon">@luxtracon</a>.</h6>
 </div>
