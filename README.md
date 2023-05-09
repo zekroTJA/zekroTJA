@@ -93,10 +93,10 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/akane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=akane&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/goup">
+<a href="https://github.com/zekroTJA/goup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=goup&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/akane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=akane&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/sharex-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=sharex-backend&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/tokenToolsR">
