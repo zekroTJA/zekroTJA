@@ -97,10 +97,10 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/ken">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=ken&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/safepool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=safepool&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/factorio-docker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=factorio-docker&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/braindump">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
