@@ -93,14 +93,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/whattheshell">
+<a href="https://github.com/zekroTJA/goup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=goup&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/studio-b12/elk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studio-b12&repo=elk&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/whattheshell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=whattheshell&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/ken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=ken&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/safepool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=safepool&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
