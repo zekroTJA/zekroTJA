@@ -5,43 +5,36 @@
 Hey 👋! I'm Ringo Hoffmann, also known as zekro. I am a <!--age:1998-12-12-->24 years old self-taught full stack developer from Germany.
 
 
-**Most experiences with:**
+### My current Stack
+
+**Languages & Frameworks:**
 
 <img alt="Go" src="media/stack/go.svg" height="30" /> &nbsp;&nbsp;
+<img alt="Rust" src="media/stack/rust.svg" height="30" /> &nbsp;&nbsp;
 <img alt="TypeScript" src="media/stack/typescript.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Python" src="media/stack/python.svg" height="30" /> &nbsp;&nbsp;
+<img alt="Bash" src="media/stack/bash.svg" height="30" /> &nbsp;&nbsp;
 <img alt="React" src="media/stack/react.svg" height="30" /> &nbsp;&nbsp;
+<img alt="SolidJS" src="media/stack/solid.svg" height="30" /> &nbsp;&nbsp;
+
+**DevOps Tools & Services:**
+
 <img alt="Docker & Docker Compose" src="media/stack/docker.svg" height="30" /> &nbsp;&nbsp;
 <img alt="PostgreSQL" src="media/stack/postgres.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Redis" src="media/stack/redis.svg" height="30" /> &nbsp;&nbsp;
-<img alt="GNU/Linux" src="media/stack/linux.svg" height="30" /> &nbsp;&nbsp;
-
-**Techniques I have worked with:**
-
-<img alt="Rust" src="media/stack/rust.svg" height="30" /> &nbsp;&nbsp;
-<img alt="C#" src="media/stack/csharp.svg" height="30" /> &nbsp;&nbsp;
-<img alt=".NET" src="media/stack/dotnet.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Elixir" src="media/stack/elixir.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Dart" src="media/stack/dart.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Bash" src="media/stack/bash.svg" height="30" /> &nbsp;&nbsp;
-<img alt="SASS / SCSS" src="media/stack/sass.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Angular 2+" src="media/stack/angular.svg" height="30" /> &nbsp;&nbsp;
-<img alt="VueJS" src="media/stack/vue.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Svelte" src="media/stack/svelte.svg" height="30" /> &nbsp;&nbsp;
-<img alt="SolidJS" src="media/stack/solid.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Vite Bundler" src="media/stack/vite.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Flutter" src="media/stack/flutter.svg" height="30" /> &nbsp;&nbsp;
-<img alt="GitHub Actions" src="media/stack/actions.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Travis CI" src="media/stack/travis.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Jenkins" src="media/stack/jenkins.svg" height="30" /> &nbsp;&nbsp;
-<img alt="ElasticSearch" src="media/stack/elastic.svg" height="30" /> &nbsp;&nbsp;
 <img alt="MariaDB" src="media/stack/mariadb.svg" height="30" /> &nbsp;&nbsp;
+<img alt="Redis" src="media/stack/redis.svg" height="30" /> &nbsp;&nbsp;
+<img alt="GitHub Actions" src="media/stack/actions.svg" height="30" /> &nbsp;&nbsp;
 <img alt="MongoDB" src="media/stack/mongodb.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Neo4J" src="media/stack/neo4j.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Prometheus" src="media/stack/prometheus.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Grafana" src="media/stack/grafana.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Jupyter Notebook" src="media/stack/jupyter.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Terraform" src="media/stack/terraform.svg" height="30" /> &nbsp;&nbsp;
+
+**PaaS:**
+
+<img alt="Vercel" src="media/stack/vercel.svg" height="30" /> &nbsp;&nbsp;
+<img alt="AWS" src="media/stack/aws.svg" height="30" /> &nbsp;&nbsp;
+<img alt="Cloudflare" src="media/stack/cloudflare.svg" height="30" /> &nbsp;&nbsp;
+
+### About Me
 
 
 Since April 2022, I am working full-time as Go back end developer. I've started coding [around 2014](https://pastebin.com/mpve8t8U) writing [ComputerCraft](https://computercraft.cc/) scripts in Lua. Later, I got into developing [Discord](https://discord.com) bots in Java using [JDA](https://github.com/DV8FromTheWorld/JDA). Since then, I worked my way through various techniques and languages (as you can see above).
