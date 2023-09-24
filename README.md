@@ -100,6 +100,6 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
  <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg" />  
  <small>
   <a href="https://github.com/zekroTJA/visitor-count">
-    <h6>👉 <i>visitor counter</i></h6>
+    👉 <i>visitor counter</i>
   </a>
 </small>
