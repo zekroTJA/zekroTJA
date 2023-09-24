@@ -59,7 +59,7 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 <a href="https://github.com/ranna-go"><img src="media/apps/ranna.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/vctr-sls"><img src="media/apps/vctr.png" width="50" /></a>&nbsp;&nbsp;
 <a href="https://github.com/evolvedpacks"><img src="media/apps/evpacks.png" width="50" /></a>
-<h6>Most of the logos are designed by <a href="https://twitter.com/luxtracon">@luxtracon</a>.</h6>
+<h6>Most of the logos are designed by <a href="https://github.com/luxtracon">@luxtracon</a>.</h6>
 </div>
 
 ---
@@ -76,9 +76,6 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 </details>
 
 ---
-
-<br />
-<img width="100%" src="media/02d-cropped.gif"/>
 
 <div align="center">
 <h2>Projects recently commited to</h2>
@@ -101,4 +98,8 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
   
  Visitors since 2020-07-08:  
  <img src="https://ghvisitorcount.zekro.de/zekroTJA.svg" />  
- <small><a href="https://github.com/zekroTJA/visitor-count">👉 <i>visitor counter</i></a></small>
+ <small>
+  <a href="https://github.com/zekroTJA/visitor-count">
+    <h6>👉 <i>visitor counter</i></h6>
+  </a>
+</small>
