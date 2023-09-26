@@ -83,14 +83,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/shellshape/.github">
+<a href="https://github.com/shellshape/servus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shellshape&repo=servus&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/braindump">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/shellshape/.github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shellshape&repo=.github&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/zekro.de">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=zekro.de&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/spotify-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=spotify-automation&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/braindump">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
