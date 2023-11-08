@@ -83,10 +83,10 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/braindump">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/aoc-2022-ocaml">
+<a href="https://github.com/zekroTJA/aoc-2022-ocaml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=aoc-2022-ocaml&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/braindump">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/studio-b12/gowebdav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studio-b12&repo=gowebdav&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/shinpuru">
