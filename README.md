@@ -83,14 +83,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/timedmap">
+<a href="https://github.com/zekroTJA/shinpuru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/timedmap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=timedmap&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/ranna-go/ranna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranna-go&repo=ranna&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/braindump">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/spigot-autobuild">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=spigot-autobuild&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/shinpuru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
