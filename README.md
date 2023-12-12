@@ -2,7 +2,7 @@
 
 ---
 
-Hey 👋! I'm Ringo Hoffmann, also known as zekro. I am a <!--age:1998-12-12-->24 years old self-taught full stack developer from Germany.
+Hey 👋! I'm Ringo Hoffmann, also known as zekro. I am a <!--age:1998-12-12-->25 years old self-taught full stack developer from Germany.
 
 
 ### My current Stack
