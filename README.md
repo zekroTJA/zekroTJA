@@ -83,10 +83,10 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/goup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=goup&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/braindump">
+<a href="https://github.com/zekroTJA/braindump">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/goup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=goup&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/testanalyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=testanalyzer&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/go-range-benchmarks">
