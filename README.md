@@ -83,14 +83,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/shellshape/rush">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shellshape&repo=rush&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/zekroTJA/rconcli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=rconcli&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/braindump">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/shellshape/rush">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shellshape&repo=rush&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/minebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=minebase&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/minestack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=minestack&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
