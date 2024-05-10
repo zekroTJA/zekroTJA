@@ -83,12 +83,12 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/shinpuru">
+<a href="https://github.com/zekroTJA/braindump">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/example-rest-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=example-rest-api&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/braindump">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=braindump&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/atm9-dockerized">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=atm9-dockerized&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
