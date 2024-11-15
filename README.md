@@ -20,6 +20,7 @@ Hey 👋! I'm Ringo Hoffmann, also known as zekro. I am a <!--age:1998-12-12-->2
 **DevOps Tools & Services:**
 
 <img alt="Docker & Docker Compose" src="media/stack/docker.svg" height="30" /> &nbsp;&nbsp;
+<img alt="OpenTofu" src="media/stack/tofu.svg" height="30" /> &nbsp;&nbsp;
 <img alt="PostgreSQL" src="media/stack/postgres.svg" height="30" /> &nbsp;&nbsp;
 <img alt="MariaDB" src="media/stack/mariadb.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Redis" src="media/stack/redis.svg" height="30" /> &nbsp;&nbsp;
