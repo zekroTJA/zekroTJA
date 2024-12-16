@@ -29,10 +29,10 @@ Hey 👋! I'm Ringo Hoffmann, also known as zekro. I am a <!--age:1998-12-12-->2
 <img alt="Prometheus" src="media/stack/prometheus.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Grafana" src="media/stack/grafana.svg" height="30" /> &nbsp;&nbsp;
 
-**PaaS:**
+**IaaS:**
 
-<img alt="Vercel" src="media/stack/vercel.svg" height="30" /> &nbsp;&nbsp;
 <img alt="AWS" src="media/stack/aws.svg" height="30" /> &nbsp;&nbsp;
+<img alt="Vercel" src="media/stack/vercel.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Cloudflare" src="media/stack/cloudflare.svg" height="30" /> &nbsp;&nbsp;
 
 ### About Me
