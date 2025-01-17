@@ -84,10 +84,10 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/zekroTJA/shinpuru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/new.zekro.de">
+<a href="https://github.com/zekroTJA/new.zekro.de">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=new.zekro.de&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/zekroTJA/shinpuru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/sf5-dockerized">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=sf5-dockerized&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/shellshape/.github">
