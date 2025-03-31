@@ -84,14 +84,14 @@ Besides all of that, I also create videos on my [YouTube channel](https://youtub
 
 <div align="center">
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/shellshape/rust-cli-template">
+<a href="https://github.com/zekroTJA/cargo-generate-windows-bug">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=cargo-generate-windows-bug&show_icons=true&theme=tokyonight" />
+</a><a href="https://github.com/shellshape/rust-cli-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shellshape&repo=rust-cli-template&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/figlet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=figlet&show_icons=true&theme=tokyonight" />
 </a><a href="https://github.com/zekroTJA/shinpuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=shinpuru&show_icons=true&theme=tokyonight" />
-</a><a href="https://github.com/zekroTJA/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekroTJA&repo=dotfiles&show_icons=true&theme=tokyonight" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
 <br />
