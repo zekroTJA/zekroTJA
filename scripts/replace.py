@@ -34,11 +34,12 @@ class Replacer:
                     (now.month == bd.month and now.day < bd.day):
                 age -= 1
             return '{}'.format(age)
+        raise Exception(f"unimplemented function '{self.func}'")
 
     def ex(self) -> str:
         res = self.get_result()
-        if res:
-            return self.re_assemble(res)
+        return self.re_assemble(res)
+
 
 
 def find_all_replacers(target: str) -> List[Replacer]:
