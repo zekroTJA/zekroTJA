@@ -8,31 +8,31 @@ Hey 👋! I'm Ringo Hoffmann, also known as zekro. I am a <!--age:1998-12-12-->2
 
 **Languages & Frameworks:**
 
-<img alt="Go" src="media/stack/go.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Rust" src="media/stack/rust.svg" height="30" /> &nbsp;&nbsp;
-<img alt="TypeScript" src="media/stack/typescript.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Python" src="media/stack/python.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Bash" src="media/stack/bash.svg" height="30" /> &nbsp;&nbsp;
-<img alt="React" src="media/stack/react.svg" height="30" /> &nbsp;&nbsp;
-<img alt="SolidJS" src="media/stack/solid.svg" height="30" /> &nbsp;&nbsp;
+![Go](media/stack/go.svg) &nbsp;&nbsp;
+![Rust](media/stack/rust.svg) &nbsp;&nbsp;
+![TypeScript](media/stack/typescript.svg) &nbsp;&nbsp;
+![Python](media/stack/python.svg) &nbsp;&nbsp;
+![Bash](media/stack/bash.svg) &nbsp;&nbsp;
+![React](media/stack/react.svg) &nbsp;&nbsp;
+![SolidJS](media/stack/solid.svg) &nbsp;&nbsp;
 
 **DevOps Tools & Services:**
 
-<img alt="Docker & Docker Compose" src="media/stack/docker.svg" height="30" /> &nbsp;&nbsp;
-<img alt="OpenTofu" src="media/stack/tofu.svg" height="30" /> &nbsp;&nbsp;
-<img alt="PostgreSQL" src="media/stack/postgres.svg" height="30" /> &nbsp;&nbsp;
-<img alt="MariaDB" src="media/stack/mariadb.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Redis" src="media/stack/redis.svg" height="30" /> &nbsp;&nbsp;
-<img alt="GitHub Actions" src="media/stack/actions.svg" height="30" /> &nbsp;&nbsp;
-<img alt="MongoDB" src="media/stack/mongodb.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Prometheus" src="media/stack/prometheus.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Grafana" src="media/stack/grafana.svg" height="30" /> &nbsp;&nbsp;
+![Docker & Docker Compose](media/stack/docker.svg) &nbsp;&nbsp;
+![OpenTofu](media/stack/tofu.svg) &nbsp;&nbsp;
+![PostgreSQL](media/stack/postgres.svg) &nbsp;&nbsp;
+![MariaDB](media/stack/mariadb.svg) &nbsp;&nbsp;
+![Redis](media/stack/redis.svg) &nbsp;&nbsp;
+![GitHub Actions](media/stack/actions.svg) &nbsp;&nbsp;
+![MongoDB](media/stack/mongodb.svg) &nbsp;&nbsp;
+![Prometheus](media/stack/prometheus.svg) &nbsp;&nbsp;
+![Grafana](media/stack/grafana.svg) &nbsp;&nbsp;
 
 **IaaS:**
 
-<img alt="AWS" src="media/stack/aws.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Vercel" src="media/stack/vercel.svg" height="30" /> &nbsp;&nbsp;
-<img alt="Cloudflare" src="media/stack/cloudflare.svg" height="30" /> &nbsp;&nbsp;
+![AWS](media/stack/aws.svg) &nbsp;&nbsp;
+![Vercel](media/stack/vercel.svg) &nbsp;&nbsp;
+![Cloudflare](media/stack/cloudflare.svg) &nbsp;&nbsp;
 
 ### About Me
 
